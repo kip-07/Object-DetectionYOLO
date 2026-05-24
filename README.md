@@ -1,4 +1,3 @@
-````markdown
 # Object Detection & Tracking using YOLOv8
 
 A computer vision project collection demonstrating real-time object detection, multi-object tracking, and safety compliance monitoring using YOLOv8. The repository contains four progressively advanced applications ranging from basic object detection to traffic analytics and PPE violation detection.
@@ -114,4 +113,3 @@ Watch the project in action:
 👉 https://drive.google.com/file/d/1p4BF101JL3GWsSAzQwJIQvJXracx5niw/view?usp=sharing
 
 
-````
